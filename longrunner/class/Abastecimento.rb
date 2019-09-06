@@ -2,12 +2,13 @@
 require 'json'
 
 class Abastecimento
-    attr_accessor :valor, :bomba
+    attr_accessor :valor, :bomba, :combustivel
 
     def as_json(options={})
         {
             valor: @valor,
-            bomba: @bomba
+            bomba: @bomba,
+            combustivel: @combustivel
         }
     end
 
