@@ -13,10 +13,9 @@ default: &default
   adapter: mysql2
   encoding: utf8mb4
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  username: doadmin
-  password: sbuuinq55ftzgj6o 
-  host: mysql-db-do-user-201945-0.db.ondigitalocean.com
-  port: 25060
+  username: pontomais
+  password: pontomais  
+  host: 157.245.129.148
 
 development:
   <<: *default
