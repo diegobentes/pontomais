@@ -37,7 +37,7 @@ begin
                 #informando que a publicação foi efetuada
                 puts " [x] Sent #{abastecimento.to_json}"
                 #aguardando 50 segundos para que o proximo carro entre na bomba
-                sleep(5)
+                sleep(50)
             end
         #end
         #threads << thr
