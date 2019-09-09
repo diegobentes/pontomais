@@ -45,11 +45,14 @@ class RabbitMQ
         getChannel.default_exchange.publish(object_to_queue, routing_key: getQueue.name)
     end
 
-    def listen_queue
-        getQueue.subscribe(manual_ack: true) do |delivery_info, _properties, body|
-            yield(body)
-            getChannel.ack(delivery_info.delivery_tag)
+    def listen_queue(consumer_tag = 'consummer_default', &block) 
+        getQueue.subscribe(consumer_tag: consumer_tag, manual_ack: true) do |delivery_info, properties, body|
+            yield(delivery_info, properties, body)
         end
+    end
+
+    def self.close_connection
+        close_connection
     end
 
     def close_connection

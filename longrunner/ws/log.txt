@@ -1,0 +1,489 @@
+2019-09-08 01:08:45 -0300: ended
+2019-09-08 01:08:53 -0300: started
+2019-09-08 01:08:55 -0300:  [*] Aguardando por abastecimentos
+2019-09-08 01:08:55 -0300:  [x] Received {"valor":209.77,"bomba":115,"combustivel":"Gasolina"}
+2019-09-08 01:08:58 -0300: Mensagem Processada!
+2019-09-08 01:08:58 -0300:  [x] Received {"valor":183.92,"bomba":150,"combustivel":"Gasolina"}
+2019-09-08 01:08:59 -0300: Mensagem Processada!
+2019-09-08 01:08:59 -0300:  [x] Received {"valor":199.4,"bomba":113,"combustivel":"Etanol"}
+2019-09-08 01:08:59 -0300: Mensagem Processada!
+2019-09-08 01:08:59 -0300:  [x] Received {"valor":137.67,"bomba":7,"combustivel":"Gasolina"}
+2019-09-08 01:09:00 -0300: Mensagem Processada!
+2019-09-08 01:09:00 -0300:  [x] Received {"valor":219.23,"bomba":23,"combustivel":"Etanol"}
+2019-09-08 01:09:01 -0300: Mensagem Processada!
+2019-09-08 01:09:01 -0300:  [x] Received {"valor":247.43,"bomba":94,"combustivel":"Gasolina"}
+2019-09-08 01:09:02 -0300: Mensagem Processada!
+2019-09-08 01:09:02 -0300:  [x] Received {"valor":129.68,"bomba":160,"combustivel":"Gasolina"}
+2019-09-08 01:09:03 -0300: Mensagem Processada!
+2019-09-08 01:09:03 -0300:  [x] Received {"valor":107.47,"bomba":55,"combustivel":"Gasolina"}
+2019-09-08 01:09:04 -0300: Mensagem Processada!
+2019-09-08 01:09:04 -0300:  [x] Received {"valor":127.85,"bomba":26,"combustivel":"Etanol"}
+2019-09-08 01:09:05 -0300: Mensagem Processada!
+2019-09-08 01:09:05 -0300:  [x] Received {"valor":63.63,"bomba":5,"combustivel":"Gasolina"}
+2019-09-08 01:09:07 -0300: Mensagem Processada!
+2019-09-08 01:09:07 -0300:  [x] Received {"valor":89.04,"bomba":15,"combustivel":"Etanol"}
+2019-09-08 01:09:08 -0300: Mensagem Processada!
+2019-09-08 01:09:08 -0300:  [x] Received {"valor":157.16,"bomba":125,"combustivel":"Etanol"}
+2019-09-08 01:09:09 -0300: Mensagem Processada!
+2019-09-08 01:09:09 -0300:  [x] Received {"valor":146.85,"bomba":38,"combustivel":"Gasolina"}
+2019-09-08 01:09:10 -0300: Mensagem Processada!
+2019-09-08 01:09:10 -0300:  [x] Received {"valor":235.91,"bomba":158,"combustivel":"Gasolina"}
+2019-09-08 01:09:11 -0300: Mensagem Processada!
+2019-09-08 01:09:11 -0300:  [x] Received {"valor":51.64,"bomba":123,"combustivel":"Etanol"}
+2019-09-08 01:09:12 -0300: Mensagem Processada!
+2019-09-08 01:09:12 -0300:  [x] Received {"valor":62.59,"bomba":41,"combustivel":"Gasolina"}
+2019-09-08 01:09:13 -0300: Mensagem Processada!
+2019-09-08 01:09:13 -0300:  [x] Received {"valor":19.67,"bomba":26,"combustivel":"Gasolina"}
+2019-09-08 01:09:14 -0300: Mensagem Processada!
+2019-09-08 01:09:14 -0300:  [x] Received {"valor":135.94,"bomba":56,"combustivel":"Etanol"}
+2019-09-08 01:09:15 -0300: Mensagem Processada!
+2019-09-08 01:09:15 -0300:  [x] Received {"valor":31.64,"bomba":173,"combustivel":"Gasolina"}
+2019-09-08 01:09:16 -0300: Mensagem Processada!
+2019-09-08 01:09:16 -0300:  [x] Received {"valor":139.61,"bomba":70,"combustivel":"Etanol"}
+2019-09-08 01:09:17 -0300: Mensagem Processada!
+2019-09-08 01:09:17 -0300:  [x] Received {"valor":159.62,"bomba":74,"combustivel":"Gasolina"}
+2019-09-08 01:09:19 -0300: Mensagem Processada!
+2019-09-08 01:09:19 -0300:  [x] Received {"valor":104.03,"bomba":37,"combustivel":"Gasolina"}
+2019-09-08 01:09:20 -0300: Mensagem Processada!
+2019-09-08 01:09:20 -0300:  [x] Received {"valor":132.84,"bomba":102,"combustivel":"Etanol"}
+2019-09-08 01:09:20 -0300: Mensagem Processada!
+2019-09-08 01:09:20 -0300:  [x] Received {"valor":100.12,"bomba":195,"combustivel":"Etanol"}
+2019-09-08 01:09:21 -0300: Mensagem Processada!
+2019-09-08 01:09:22 -0300:  [x] Received {"valor":16.41,"bomba":27,"combustivel":"Gasolina"}
+2019-09-08 01:09:23 -0300: Mensagem Processada!
+2019-09-08 01:09:23 -0300:  [x] Received {"valor":120.95,"bomba":160,"combustivel":"Gasolina"}
+2019-09-08 01:09:24 -0300: Mensagem Processada!
+2019-09-08 01:09:24 -0300:  [x] Received {"valor":138.58,"bomba":85,"combustivel":"Gasolina"}
+2019-09-08 01:09:25 -0300: Mensagem Processada!
+2019-09-08 01:09:25 -0300:  [x] Received {"valor":43.64,"bomba":122,"combustivel":"Gasolina"}
+2019-09-08 01:09:26 -0300: Mensagem Processada!
+2019-09-08 01:09:26 -0300:  [x] Received {"valor":130.89,"bomba":161,"combustivel":"Gasolina"}
+2019-09-08 01:09:27 -0300: Mensagem Processada!
+2019-09-08 01:09:27 -0300:  [x] Received {"valor":207.42,"bomba":108,"combustivel":"Etanol"}
+2019-09-08 01:09:28 -0300: Mensagem Processada!
+2019-09-08 01:09:28 -0300:  [x] Received {"valor":63.93,"bomba":35,"combustivel":"Gasolina"}
+2019-09-08 01:09:29 -0300: Mensagem Processada!
+2019-09-08 01:09:29 -0300:  [x] Received {"valor":231.73,"bomba":43,"combustivel":"Etanol"}
+2019-09-08 01:09:30 -0300: Mensagem Processada!
+2019-09-08 01:09:30 -0300:  [x] Received {"valor":134.64,"bomba":33,"combustivel":"Gasolina"}
+2019-09-08 01:09:31 -0300: Mensagem Processada!
+2019-09-08 01:09:31 -0300:  [x] Received {"valor":178.48,"bomba":187,"combustivel":"Etanol"}
+2019-09-08 01:09:32 -0300: Mensagem Processada!
+2019-09-08 01:09:32 -0300:  [x] Received {"valor":82.68,"bomba":113,"combustivel":"Etanol"}
+2019-09-08 01:09:33 -0300: Mensagem Processada!
+2019-09-08 01:09:33 -0300:  [x] Received {"valor":160.17,"bomba":62,"combustivel":"Etanol"}
+2019-09-08 01:09:34 -0300: Mensagem Processada!
+2019-09-08 01:09:34 -0300:  [x] Received {"valor":55.82,"bomba":19,"combustivel":"Gasolina"}
+2019-09-08 01:09:35 -0300: Mensagem Processada!
+2019-09-08 01:09:35 -0300:  [x] Received {"valor":179.91,"bomba":176,"combustivel":"Etanol"}
+2019-09-08 01:09:36 -0300: Mensagem Processada!
+2019-09-08 01:09:36 -0300:  [x] Received {"valor":209.49,"bomba":76,"combustivel":"Etanol"}
+2019-09-08 01:09:37 -0300: Mensagem Processada!
+2019-09-08 01:09:37 -0300:  [x] Received {"valor":246.03,"bomba":161,"combustivel":"Etanol"}
+2019-09-08 01:09:39 -0300: Mensagem Processada!
+2019-09-08 01:09:39 -0300: ended
+2019-09-08 01:13:17 -0300: started
+2019-09-08 01:13:19 -0300:  [*] Aguardando por abastecimentos
+2019-09-08 01:13:19 -0300:  [x] Received {"valor":209.77,"bomba":115,"combustivel":"Gasolina"}
+2019-09-08 01:13:20 -0300: Mensagem Processada!
+2019-09-08 01:13:20 -0300:  [x] Received {"valor":183.92,"bomba":150,"combustivel":"Gasolina"}
+2019-09-08 01:13:21 -0300: Mensagem Processada!
+2019-09-08 01:13:21 -0300:  [x] Received {"valor":199.4,"bomba":113,"combustivel":"Etanol"}
+2019-09-08 01:13:22 -0300: Mensagem Processada!
+2019-09-08 01:13:22 -0300:  [x] Received {"valor":137.67,"bomba":7,"combustivel":"Gasolina"}
+2019-09-08 01:13:23 -0300: Mensagem Processada!
+2019-09-08 01:13:23 -0300:  [x] Received {"valor":219.23,"bomba":23,"combustivel":"Etanol"}
+2019-09-08 01:13:25 -0300: Mensagem Processada!
+2019-09-08 01:13:25 -0300:  [x] Received {"valor":247.43,"bomba":94,"combustivel":"Gasolina"}
+2019-09-08 01:13:26 -0300: Mensagem Processada!
+2019-09-08 01:13:26 -0300:  [x] Received {"valor":129.68,"bomba":160,"combustivel":"Gasolina"}
+2019-09-08 01:13:26 -0300: Mensagem Processada!
+2019-09-08 01:13:26 -0300:  [x] Received {"valor":107.47,"bomba":55,"combustivel":"Gasolina"}
+2019-09-08 01:13:27 -0300: Mensagem Processada!
+2019-09-08 01:13:27 -0300:  [x] Received {"valor":127.85,"bomba":26,"combustivel":"Etanol"}
+2019-09-08 01:13:29 -0300: Mensagem Processada!
+2019-09-08 01:13:29 -0300:  [x] Received {"valor":63.63,"bomba":5,"combustivel":"Gasolina"}
+2019-09-08 01:13:30 -0300: Mensagem Processada!
+2019-09-08 01:13:30 -0300:  [x] Received {"valor":89.04,"bomba":15,"combustivel":"Etanol"}
+2019-09-08 01:13:31 -0300: Mensagem Processada!
+2019-09-08 01:13:31 -0300:  [x] Received {"valor":157.16,"bomba":125,"combustivel":"Etanol"}
+2019-09-08 01:13:32 -0300: Mensagem Processada!
+2019-09-08 01:13:32 -0300:  [x] Received {"valor":146.85,"bomba":38,"combustivel":"Gasolina"}
+2019-09-08 01:13:33 -0300: Mensagem Processada!
+2019-09-08 01:13:33 -0300:  [x] Received {"valor":235.91,"bomba":158,"combustivel":"Gasolina"}
+2019-09-08 01:13:34 -0300: Mensagem Processada!
+2019-09-08 01:13:34 -0300:  [x] Received {"valor":51.64,"bomba":123,"combustivel":"Etanol"}
+2019-09-08 01:13:35 -0300: Mensagem Processada!
+2019-09-08 01:13:35 -0300:  [x] Received {"valor":62.59,"bomba":41,"combustivel":"Gasolina"}
+2019-09-08 01:13:36 -0300: Mensagem Processada!
+2019-09-08 01:13:36 -0300:  [x] Received {"valor":19.67,"bomba":26,"combustivel":"Gasolina"}
+2019-09-08 01:13:37 -0300: Mensagem Processada!
+2019-09-08 01:13:37 -0300:  [x] Received {"valor":135.94,"bomba":56,"combustivel":"Etanol"}
+2019-09-08 01:13:38 -0300: Mensagem Processada!
+2019-09-08 01:13:38 -0300:  [x] Received {"valor":31.64,"bomba":173,"combustivel":"Gasolina"}
+2019-09-08 01:13:39 -0300: Mensagem Processada!
+2019-09-08 01:13:39 -0300:  [x] Received {"valor":139.61,"bomba":70,"combustivel":"Etanol"}
+2019-09-08 01:13:40 -0300: Mensagem Processada!
+2019-09-08 01:13:40 -0300:  [x] Received {"valor":159.62,"bomba":74,"combustivel":"Gasolina"}
+2019-09-08 01:13:41 -0300: Mensagem Processada!
+2019-09-08 01:13:41 -0300:  [x] Received {"valor":104.03,"bomba":37,"combustivel":"Gasolina"}
+2019-09-08 01:13:41 -0300: Mensagem Processada!
+2019-09-08 01:13:41 -0300:  [x] Received {"valor":132.84,"bomba":102,"combustivel":"Etanol"}
+2019-09-08 01:13:42 -0300: Mensagem Processada!
+2019-09-08 01:13:42 -0300:  [x] Received {"valor":100.12,"bomba":195,"combustivel":"Etanol"}
+2019-09-08 01:13:43 -0300: Mensagem Processada!
+2019-09-08 01:13:43 -0300:  [x] Received {"valor":16.41,"bomba":27,"combustivel":"Gasolina"}
+2019-09-08 01:13:44 -0300: Mensagem Processada!
+2019-09-08 01:13:44 -0300:  [x] Received {"valor":120.95,"bomba":160,"combustivel":"Gasolina"}
+2019-09-08 01:13:45 -0300: Mensagem Processada!
+2019-09-08 01:13:45 -0300:  [x] Received {"valor":138.58,"bomba":85,"combustivel":"Gasolina"}
+2019-09-08 01:13:46 -0300: Mensagem Processada!
+2019-09-08 01:13:46 -0300:  [x] Received {"valor":43.64,"bomba":122,"combustivel":"Gasolina"}
+2019-09-08 01:13:47 -0300: Mensagem Processada!
+2019-09-08 01:13:47 -0300:  [x] Received {"valor":130.89,"bomba":161,"combustivel":"Gasolina"}
+2019-09-08 01:13:47 -0300: ended
+2019-09-08 01:17:32 -0300: started
+2019-09-08 01:17:33 -0300:  [*] Aguardando por abastecimentos
+2019-09-08 01:17:34 -0300:  [x] Received {"valor":130.89,"bomba":161,"combustivel":"Gasolina"}
+2019-09-08 01:17:35 -0300: Mensagem Processada!
+2019-09-08 01:17:35 -0300:  [x] Received {"valor":207.42,"bomba":108,"combustivel":"Etanol"}
+2019-09-08 01:17:36 -0300: Mensagem Processada!
+2019-09-08 01:17:36 -0300:  [x] Received {"valor":63.93,"bomba":35,"combustivel":"Gasolina"}
+2019-09-08 01:17:37 -0300: Mensagem Processada!
+2019-09-08 01:17:37 -0300:  [x] Received {"valor":231.73,"bomba":43,"combustivel":"Etanol"}
+2019-09-08 01:17:38 -0300: Mensagem Processada!
+2019-09-08 01:17:38 -0300:  [x] Received {"valor":134.64,"bomba":33,"combustivel":"Gasolina"}
+2019-09-08 01:17:38 -0300: Mensagem Processada!
+2019-09-08 01:17:38 -0300:  [x] Received {"valor":178.48,"bomba":187,"combustivel":"Etanol"}
+2019-09-08 01:17:40 -0300: Mensagem Processada!
+2019-09-08 01:17:40 -0300:  [x] Received {"valor":82.68,"bomba":113,"combustivel":"Etanol"}
+2019-09-08 01:17:41 -0300: Mensagem Processada!
+2019-09-08 01:17:41 -0300:  [x] Received {"valor":160.17,"bomba":62,"combustivel":"Etanol"}
+2019-09-08 01:17:42 -0300: Mensagem Processada!
+2019-09-08 01:17:42 -0300:  [x] Received {"valor":55.82,"bomba":19,"combustivel":"Gasolina"}
+2019-09-08 01:17:42 -0300: Mensagem Processada!
+2019-09-08 01:17:42 -0300:  [x] Received {"valor":179.91,"bomba":176,"combustivel":"Etanol"}
+2019-09-08 01:17:43 -0300: Mensagem Processada!
+2019-09-08 01:17:43 -0300:  [x] Received {"valor":209.49,"bomba":76,"combustivel":"Etanol"}
+2019-09-08 01:17:44 -0300: Mensagem Processada!
+2019-09-08 01:17:44 -0300:  [x] Received {"valor":246.03,"bomba":161,"combustivel":"Etanol"}
+2019-09-08 01:17:45 -0300: Mensagem Processada!
+2019-09-08 01:17:45 -0300:  [x] Received {"valor":13.5,"bomba":99,"combustivel":"Etanol"}
+2019-09-08 01:17:46 -0300: Mensagem Processada!
+2019-09-08 01:17:46 -0300:  [x] Received {"valor":87.95,"bomba":104,"combustivel":"Etanol"}
+2019-09-08 01:17:47 -0300: Mensagem Processada!
+2019-09-08 01:17:47 -0300:  [x] Received {"valor":79.76,"bomba":25,"combustivel":"Gasolina"}
+2019-09-08 01:17:48 -0300: Mensagem Processada!
+2019-09-08 01:17:48 -0300:  [x] Received {"valor":143.75,"bomba":128,"combustivel":"Etanol"}
+2019-09-08 01:17:49 -0300: Mensagem Processada!
+2019-09-08 01:17:49 -0300:  [x] Received {"valor":142.61,"bomba":172,"combustivel":"Etanol"}
+2019-09-08 01:17:50 -0300: Mensagem Processada!
+2019-09-08 01:17:50 -0300:  [x] Received {"valor":119.48,"bomba":92,"combustivel":"Etanol"}
+2019-09-08 01:17:50 -0300: Mensagem Processada!
+2019-09-08 01:17:50 -0300:  [x] Received {"valor":169.69,"bomba":5,"combustivel":"Etanol"}
+2019-09-08 01:17:51 -0300: Mensagem Processada!
+2019-09-08 01:17:51 -0300:  [x] Received {"valor":222.9,"bomba":25,"combustivel":"Etanol"}
+2019-09-08 01:17:52 -0300: Mensagem Processada!
+2019-09-08 01:17:52 -0300:  [x] Received {"valor":202.49,"bomba":61,"combustivel":"Gasolina"}
+2019-09-08 01:17:53 -0300: Mensagem Processada!
+2019-09-08 01:17:53 -0300:  [x] Received {"valor":70.38,"bomba":50,"combustivel":"Etanol"}
+2019-09-08 01:17:54 -0300: Mensagem Processada!
+2019-09-08 01:17:54 -0300:  [x] Received {"valor":0.34,"bomba":54,"combustivel":"Gasolina"}
+2019-09-08 01:17:55 -0300: Mensagem Processada!
+2019-09-08 01:17:55 -0300:  [x] Received {"valor":237.3,"bomba":188,"combustivel":"Gasolina"}
+2019-09-08 01:17:56 -0300: Mensagem Processada!
+2019-09-08 01:17:56 -0300:  [x] Received {"valor":96.68,"bomba":73,"combustivel":"Gasolina"}
+2019-09-08 01:17:56 -0300: Mensagem Processada!
+2019-09-08 01:17:56 -0300:  [x] Received {"valor":4.63,"bomba":58,"combustivel":"Etanol"}
+2019-09-08 01:17:57 -0300: Mensagem Processada!
+2019-09-08 01:17:57 -0300:  [x] Received {"valor":224.83,"bomba":25,"combustivel":"Etanol"}
+2019-09-08 01:17:59 -0300: Mensagem Processada!
+2019-09-08 01:17:59 -0300:  [x] Received {"valor":17.52,"bomba":36,"combustivel":"Gasolina"}
+2019-09-08 01:17:59 -0300: Mensagem Processada!
+2019-09-08 01:17:59 -0300:  [x] Received {"valor":95.05,"bomba":61,"combustivel":"Gasolina"}
+2019-09-08 01:18:00 -0300: Mensagem Processada!
+2019-09-08 01:18:00 -0300:  [x] Received {"valor":41.31,"bomba":113,"combustivel":"Gasolina"}
+2019-09-08 01:18:01 -0300: Mensagem Processada!
+2019-09-08 01:18:01 -0300:  [x] Received {"valor":120.81,"bomba":141,"combustivel":"Gasolina"}
+2019-09-08 01:18:02 -0300: Mensagem Processada!
+2019-09-08 01:18:02 -0300:  [x] Received {"valor":147.81,"bomba":25,"combustivel":"Etanol"}
+2019-09-08 01:18:03 -0300: Mensagem Processada!
+2019-09-08 01:18:03 -0300:  [x] Received {"valor":230.61,"bomba":16,"combustivel":"Etanol"}
+2019-09-08 01:18:04 -0300: Mensagem Processada!
+2019-09-08 01:18:04 -0300:  [x] Received {"valor":97.7,"bomba":120,"combustivel":"Etanol"}
+2019-09-08 01:18:04 -0300: Mensagem Processada!
+2019-09-08 01:18:04 -0300:  [x] Received {"valor":35.47,"bomba":87,"combustivel":"Gasolina"}
+2019-09-08 01:18:05 -0300: Mensagem Processada!
+2019-09-08 01:18:05 -0300:  [x] Received {"valor":132.04,"bomba":86,"combustivel":"Etanol"}
+2019-09-08 01:18:06 -0300: Mensagem Processada!
+2019-09-08 01:18:06 -0300:  [x] Received {"valor":25.78,"bomba":57,"combustivel":"Etanol"}
+2019-09-08 01:18:07 -0300: Mensagem Processada!
+2019-09-08 01:18:07 -0300:  [x] Received {"valor":76.81,"bomba":116,"combustivel":"Gasolina"}
+2019-09-08 01:18:08 -0300: Mensagem Processada!
+2019-09-08 01:18:08 -0300:  [x] Received {"valor":128.26,"bomba":98,"combustivel":"Etanol"}
+2019-09-08 01:18:09 -0300: Mensagem Processada!
+2019-09-08 01:18:09 -0300:  [x] Received {"valor":246.73,"bomba":87,"combustivel":"Gasolina"}
+2019-09-08 01:18:10 -0300: Mensagem Processada!
+2019-09-08 01:18:10 -0300:  [x] Received {"valor":124.5,"bomba":67,"combustivel":"Etanol"}
+2019-09-08 01:18:11 -0300: Mensagem Processada!
+2019-09-08 01:18:11 -0300:  [x] Received {"valor":209.46,"bomba":26,"combustivel":"Etanol"}
+2019-09-08 01:18:12 -0300: Mensagem Processada!
+2019-09-08 01:18:12 -0300:  [x] Received {"valor":71.28,"bomba":13,"combustivel":"Etanol"}
+2019-09-08 01:18:13 -0300: Mensagem Processada!
+2019-09-08 01:18:13 -0300:  [x] Received {"valor":205.09,"bomba":121,"combustivel":"Gasolina"}
+2019-09-08 01:18:14 -0300: Mensagem Processada!
+2019-09-08 01:18:14 -0300:  [x] Received {"valor":204.78,"bomba":186,"combustivel":"Etanol"}
+2019-09-08 01:18:15 -0300: Mensagem Processada!
+2019-09-08 01:18:15 -0300:  [x] Received {"valor":91.26,"bomba":172,"combustivel":"Etanol"}
+2019-09-08 01:18:15 -0300: Mensagem Processada!
+2019-09-08 01:18:15 -0300:  [x] Received {"valor":115.36,"bomba":94,"combustivel":"Gasolina"}
+2019-09-08 01:18:16 -0300: Mensagem Processada!
+2019-09-08 01:18:16 -0300:  [x] Received {"valor":191.7,"bomba":53,"combustivel":"Etanol"}
+2019-09-08 01:18:17 -0300: Mensagem Processada!
+2019-09-08 01:18:17 -0300:  [x] Received {"valor":59.0,"bomba":189,"combustivel":"Etanol"}
+2019-09-08 01:18:18 -0300: Mensagem Processada!
+2019-09-08 01:18:18 -0300:  [x] Received {"valor":119.79,"bomba":194,"combustivel":"Etanol"}
+2019-09-08 01:18:19 -0300: Mensagem Processada!
+2019-09-08 01:18:19 -0300:  [x] Received {"valor":26.09,"bomba":95,"combustivel":"Etanol"}
+2019-09-08 01:18:20 -0300: Mensagem Processada!
+2019-09-08 01:18:20 -0300:  [x] Received {"valor":39.02,"bomba":126,"combustivel":"Etanol"}
+2019-09-08 01:18:21 -0300: Mensagem Processada!
+2019-09-08 01:18:21 -0300:  [x] Received {"valor":63.43,"bomba":160,"combustivel":"Gasolina"}
+2019-09-08 01:18:23 -0300: Mensagem Processada!
+2019-09-08 01:18:23 -0300:  [x] Received {"valor":126.28,"bomba":42,"combustivel":"Gasolina"}
+2019-09-08 01:18:24 -0300: Mensagem Processada!
+2019-09-08 01:18:24 -0300:  [x] Received {"valor":66.55,"bomba":157,"combustivel":"Gasolina"}
+2019-09-08 01:18:25 -0300: Mensagem Processada!
+2019-09-08 01:18:25 -0300:  [x] Received {"valor":120.84,"bomba":105,"combustivel":"Gasolina"}
+2019-09-08 01:18:26 -0300: Mensagem Processada!
+2019-09-08 01:18:26 -0300:  [x] Received {"valor":94.87,"bomba":99,"combustivel":"Etanol"}
+2019-09-08 01:18:26 -0300: Mensagem Processada!
+2019-09-08 01:18:26 -0300:  [x] Received {"valor":22.19,"bomba":85,"combustivel":"Etanol"}
+2019-09-08 01:18:27 -0300: Mensagem Processada!
+2019-09-08 01:18:27 -0300:  [x] Received {"valor":222.93,"bomba":163,"combustivel":"Etanol"}
+2019-09-08 01:18:28 -0300: Mensagem Processada!
+2019-09-08 01:18:28 -0300:  [x] Received {"valor":36.67,"bomba":183,"combustivel":"Gasolina"}
+2019-09-08 01:18:29 -0300: Mensagem Processada!
+2019-09-08 01:18:29 -0300:  [x] Received {"valor":214.03,"bomba":57,"combustivel":"Gasolina"}
+2019-09-08 01:18:30 -0300: Mensagem Processada!
+2019-09-08 01:18:30 -0300:  [x] Received {"valor":55.8,"bomba":139,"combustivel":"Etanol"}
+2019-09-08 01:18:31 -0300: Mensagem Processada!
+2019-09-08 01:18:31 -0300:  [x] Received {"valor":121.4,"bomba":185,"combustivel":"Etanol"}
+2019-09-08 01:18:32 -0300: Mensagem Processada!
+2019-09-08 01:18:32 -0300:  [x] Received {"valor":140.12,"bomba":104,"combustivel":"Etanol"}
+2019-09-08 01:18:32 -0300: Mensagem Processada!
+2019-09-08 01:18:32 -0300:  [x] Received {"valor":33.11,"bomba":9,"combustivel":"Etanol"}
+2019-09-08 01:18:34 -0300: Mensagem Processada!
+2019-09-08 01:18:34 -0300:  [x] Received {"valor":116.86,"bomba":82,"combustivel":"Etanol"}
+2019-09-08 01:18:35 -0300: Mensagem Processada!
+2019-09-08 01:18:35 -0300:  [x] Received {"valor":32.39,"bomba":200,"combustivel":"Gasolina"}
+2019-09-08 01:18:36 -0300: Mensagem Processada!
+2019-09-08 01:18:36 -0300:  [x] Received {"valor":85.83,"bomba":15,"combustivel":"Etanol"}
+2019-09-08 01:18:37 -0300: Mensagem Processada!
+2019-09-08 01:18:37 -0300:  [x] Received {"valor":197.15,"bomba":194,"combustivel":"Gasolina"}
+2019-09-08 01:18:38 -0300: Mensagem Processada!
+2019-09-08 01:18:38 -0300:  [x] Received {"valor":52.35,"bomba":189,"combustivel":"Gasolina"}
+2019-09-08 01:18:39 -0300: Mensagem Processada!
+2019-09-08 01:18:39 -0300:  [x] Received {"valor":148.62,"bomba":195,"combustivel":"Gasolina"}
+2019-09-08 01:18:40 -0300: Mensagem Processada!
+2019-09-08 01:18:40 -0300:  [x] Received {"valor":79.87,"bomba":104,"combustivel":"Gasolina"}
+2019-09-08 01:18:40 -0300: Mensagem Processada!
+2019-09-08 01:18:40 -0300:  [x] Received {"valor":65.19,"bomba":42,"combustivel":"Gasolina"}
+2019-09-08 01:18:41 -0300: Mensagem Processada!
+2019-09-08 01:18:41 -0300:  [x] Received {"valor":122.99,"bomba":198,"combustivel":"Gasolina"}
+2019-09-08 01:18:42 -0300: Mensagem Processada!
+2019-09-08 01:18:42 -0300:  [x] Received {"valor":39.63,"bomba":119,"combustivel":"Gasolina"}
+2019-09-08 01:18:43 -0300: Mensagem Processada!
+2019-09-08 01:18:43 -0300:  [x] Received {"valor":198.11,"bomba":149,"combustivel":"Etanol"}
+2019-09-08 01:18:44 -0300: Mensagem Processada!
+2019-09-08 01:18:44 -0300:  [x] Received {"valor":61.15,"bomba":186,"combustivel":"Etanol"}
+2019-09-08 01:18:45 -0300: Mensagem Processada!
+2019-09-08 01:18:45 -0300:  [x] Received {"valor":181.47,"bomba":93,"combustivel":"Etanol"}
+2019-09-08 01:18:46 -0300: Mensagem Processada!
+2019-09-08 01:18:46 -0300:  [x] Received {"valor":64.45,"bomba":26,"combustivel":"Gasolina"}
+2019-09-08 01:18:47 -0300: Mensagem Processada!
+2019-09-08 01:18:47 -0300:  [x] Received {"valor":185.61,"bomba":57,"combustivel":"Gasolina"}
+2019-09-08 01:18:48 -0300: Mensagem Processada!
+2019-09-08 01:18:48 -0300:  [x] Received {"valor":47.62,"bomba":33,"combustivel":"Etanol"}
+2019-09-08 01:18:48 -0300: Mensagem Processada!
+2019-09-08 01:18:48 -0300:  [x] Received {"valor":15.49,"bomba":41,"combustivel":"Gasolina"}
+2019-09-08 01:18:50 -0300: Mensagem Processada!
+2019-09-08 01:18:50 -0300:  [x] Received {"valor":135.26,"bomba":133,"combustivel":"Etanol"}
+2019-09-08 01:18:51 -0300: Mensagem Processada!
+2019-09-08 01:18:51 -0300:  [x] Received {"valor":127.74,"bomba":62,"combustivel":"Etanol"}
+2019-09-08 01:18:52 -0300: Mensagem Processada!
+2019-09-08 01:18:52 -0300:  [x] Received {"valor":89.63,"bomba":123,"combustivel":"Gasolina"}
+2019-09-08 01:18:53 -0300: Mensagem Processada!
+2019-09-08 01:18:53 -0300:  [x] Received {"valor":93.68,"bomba":66,"combustivel":"Etanol"}
+2019-09-08 01:18:54 -0300: Mensagem Processada!
+2019-09-08 01:18:54 -0300:  [x] Received {"valor":89.24,"bomba":182,"combustivel":"Gasolina"}
+2019-09-08 01:18:54 -0300: Mensagem Processada!
+2019-09-08 01:18:54 -0300:  [x] Received {"valor":0.59,"bomba":198,"combustivel":"Etanol"}
+2019-09-08 01:18:55 -0300: Mensagem Processada!
+2019-09-08 01:18:55 -0300:  [x] Received {"valor":60.6,"bomba":66,"combustivel":"Etanol"}
+2019-09-08 01:18:56 -0300: Mensagem Processada!
+2019-09-08 01:18:56 -0300:  [x] Received {"valor":102.05,"bomba":42,"combustivel":"Gasolina"}
+2019-09-08 01:18:57 -0300: Mensagem Processada!
+2019-09-08 01:18:57 -0300:  [x] Received {"valor":89.31,"bomba":54,"combustivel":"Etanol"}
+2019-09-08 01:18:58 -0300: Mensagem Processada!
+2019-09-08 01:18:58 -0300:  [x] Received {"valor":179.51,"bomba":160,"combustivel":"Etanol"}
+2019-09-08 01:18:59 -0300: Mensagem Processada!
+2019-09-08 01:18:59 -0300:  [x] Received {"valor":196.34,"bomba":69,"combustivel":"Gasolina"}
+2019-09-08 01:19:00 -0300: Mensagem Processada!
+2019-09-08 01:19:00 -0300:  [x] Received {"valor":54.2,"bomba":132,"combustivel":"Etanol"}
+2019-09-08 01:19:01 -0300: Mensagem Processada!
+2019-09-08 01:19:01 -0300:  [x] Received {"valor":188.61,"bomba":93,"combustivel":"Gasolina"}
+2019-09-08 01:19:02 -0300: Mensagem Processada!
+2019-09-08 01:19:02 -0300:  [x] Received {"valor":62.62,"bomba":176,"combustivel":"Gasolina"}
+2019-09-08 01:19:03 -0300: Mensagem Processada!
+2019-09-08 01:19:03 -0300:  [x] Received {"valor":19.22,"bomba":28,"combustivel":"Etanol"}
+2019-09-08 01:19:03 -0300: Mensagem Processada!
+2019-09-08 01:19:03 -0300:  [x] Received {"valor":171.06,"bomba":133,"combustivel":"Etanol"}
+2019-09-08 01:19:05 -0300: Mensagem Processada!
+2019-09-08 01:19:05 -0300:  [x] Received {"valor":82.43,"bomba":66,"combustivel":"Etanol"}
+2019-09-08 01:19:05 -0300: Mensagem Processada!
+2019-09-08 01:19:05 -0300:  [x] Received {"valor":64.05,"bomba":31,"combustivel":"Gasolina"}
+2019-09-08 01:19:06 -0300: Mensagem Processada!
+2019-09-08 01:19:06 -0300:  [x] Received {"valor":6.96,"bomba":7,"combustivel":"Etanol"}
+2019-09-08 01:19:08 -0300: Mensagem Processada!
+2019-09-08 01:19:08 -0300:  [x] Received {"valor":99.49,"bomba":177,"combustivel":"Gasolina"}
+2019-09-08 01:19:09 -0300: Mensagem Processada!
+2019-09-08 01:19:09 -0300:  [x] Received {"valor":239.35,"bomba":134,"combustivel":"Etanol"}
+2019-09-08 01:19:10 -0300: Mensagem Processada!
+2019-09-08 01:19:10 -0300:  [x] Received {"valor":146.56,"bomba":78,"combustivel":"Etanol"}
+2019-09-08 01:19:11 -0300: Mensagem Processada!
+2019-09-08 01:19:11 -0300:  [x] Received {"valor":15.52,"bomba":74,"combustivel":"Etanol"}
+2019-09-08 01:19:12 -0300: Mensagem Processada!
+2019-09-08 01:19:12 -0300:  [x] Received {"valor":21.37,"bomba":128,"combustivel":"Etanol"}
+2019-09-08 01:19:13 -0300: Mensagem Processada!
+2019-09-08 01:19:13 -0300:  [x] Received {"valor":190.67,"bomba":89,"combustivel":"Etanol"}
+2019-09-08 01:19:14 -0300: Mensagem Processada!
+2019-09-08 01:19:14 -0300:  [x] Received {"valor":192.04,"bomba":96,"combustivel":"Etanol"}
+2019-09-08 01:19:15 -0300: Mensagem Processada!
+2019-09-08 01:19:15 -0300:  [x] Received {"valor":157.4,"bomba":112,"combustivel":"Etanol"}
+2019-09-08 01:19:16 -0300: Mensagem Processada!
+2019-09-08 01:19:16 -0300:  [x] Received {"valor":48.16,"bomba":54,"combustivel":"Gasolina"}
+2019-09-08 01:19:17 -0300: Mensagem Processada!
+2019-09-08 01:19:17 -0300:  [x] Received {"valor":90.9,"bomba":27,"combustivel":"Gasolina"}
+2019-09-08 01:19:18 -0300: Mensagem Processada!
+2019-09-08 01:19:18 -0300:  [x] Received {"valor":154.63,"bomba":19,"combustivel":"Etanol"}
+2019-09-08 01:19:19 -0300: Mensagem Processada!
+2019-09-08 01:19:19 -0300:  [x] Received {"valor":114.9,"bomba":133,"combustivel":"Etanol"}
+2019-09-08 01:19:20 -0300: Mensagem Processada!
+2019-09-08 01:19:20 -0300:  [x] Received {"valor":108.57,"bomba":184,"combustivel":"Etanol"}
+2019-09-08 01:19:21 -0300: Mensagem Processada!
+2019-09-08 01:19:21 -0300:  [x] Received {"valor":181.63,"bomba":95,"combustivel":"Etanol"}
+2019-09-08 01:19:22 -0300: Mensagem Processada!
+2019-09-08 01:19:22 -0300:  [x] Received {"valor":220.52,"bomba":79,"combustivel":"Gasolina"}
+2019-09-08 01:19:23 -0300: Mensagem Processada!
+2019-09-08 01:19:23 -0300:  [x] Received {"valor":202.8,"bomba":146,"combustivel":"Etanol"}
+2019-09-08 01:19:25 -0300: Mensagem Processada!
+2019-09-08 01:19:25 -0300:  [x] Received {"valor":35.61,"bomba":97,"combustivel":"Etanol"}
+2019-09-08 01:19:26 -0300: Mensagem Processada!
+2019-09-08 01:19:26 -0300:  [x] Received {"valor":65.47,"bomba":119,"combustivel":"Etanol"}
+2019-09-08 01:19:27 -0300: Mensagem Processada!
+2019-09-08 01:19:27 -0300:  [x] Received {"valor":97.2,"bomba":70,"combustivel":"Gasolina"}
+2019-09-08 01:19:28 -0300: Mensagem Processada!
+2019-09-08 01:19:28 -0300:  [x] Received {"valor":49.27,"bomba":98,"combustivel":"Etanol"}
+2019-09-08 01:19:30 -0300: Mensagem Processada!
+2019-09-08 01:19:30 -0300:  [x] Received {"valor":32.52,"bomba":106,"combustivel":"Gasolina"}
+2019-09-08 01:19:31 -0300: Mensagem Processada!
+2019-09-08 01:19:31 -0300:  [x] Received {"valor":90.15,"bomba":91,"combustivel":"Gasolina"}
+2019-09-08 01:19:32 -0300: Mensagem Processada!
+2019-09-08 01:19:32 -0300:  [x] Received {"valor":2.49,"bomba":197,"combustivel":"Gasolina"}
+2019-09-08 01:19:33 -0300: Mensagem Processada!
+2019-09-08 01:19:33 -0300:  [x] Received {"valor":126.78,"bomba":170,"combustivel":"Etanol"}
+2019-09-08 01:19:34 -0300: Mensagem Processada!
+2019-09-08 01:19:34 -0300:  [x] Received {"valor":247.66,"bomba":192,"combustivel":"Gasolina"}
+2019-09-08 01:19:35 -0300: Mensagem Processada!
+2019-09-08 01:19:35 -0300:  [x] Received {"valor":25.04,"bomba":84,"combustivel":"Gasolina"}
+2019-09-08 01:19:36 -0300: Mensagem Processada!
+2019-09-08 01:19:36 -0300:  [x] Received {"valor":76.24,"bomba":21,"combustivel":"Etanol"}
+2019-09-08 01:19:37 -0300: Mensagem Processada!
+2019-09-08 01:19:37 -0300:  [x] Received {"valor":72.16,"bomba":190,"combustivel":"Etanol"}
+2019-09-08 01:19:38 -0300: Mensagem Processada!
+2019-09-08 01:19:38 -0300:  [x] Received {"valor":191.29,"bomba":165,"combustivel":"Etanol"}
+2019-09-08 01:19:39 -0300: Mensagem Processada!
+2019-09-08 01:19:39 -0300:  [x] Received {"valor":20.3,"bomba":8,"combustivel":"Gasolina"}
+2019-09-08 01:19:40 -0300: Mensagem Processada!
+2019-09-08 01:19:40 -0300:  [x] Received {"valor":158.61,"bomba":66,"combustivel":"Etanol"}
+2019-09-08 01:19:42 -0300: Mensagem Processada!
+2019-09-08 01:19:42 -0300:  [x] Received {"valor":243.78,"bomba":137,"combustivel":"Gasolina"}
+2019-09-08 01:19:44 -0300: Mensagem Processada!
+2019-09-08 01:19:44 -0300:  [x] Received {"valor":126.45,"bomba":49,"combustivel":"Etanol"}
+2019-09-08 01:19:45 -0300: Mensagem Processada!
+2019-09-08 01:19:45 -0300:  [x] Received {"valor":141.69,"bomba":185,"combustivel":"Gasolina"}
+2019-09-08 01:19:46 -0300: Mensagem Processada!
+2019-09-08 01:19:46 -0300:  [x] Received {"valor":202.64,"bomba":50,"combustivel":"Etanol"}
+2019-09-08 01:19:47 -0300: Mensagem Processada!
+2019-09-08 01:19:47 -0300:  [x] Received {"valor":3.47,"bomba":13,"combustivel":"Gasolina"}
+2019-09-08 01:19:48 -0300: Mensagem Processada!
+2019-09-08 01:19:48 -0300:  [x] Received {"valor":65.05,"bomba":18,"combustivel":"Gasolina"}
+2019-09-08 01:19:49 -0300: Mensagem Processada!
+2019-09-08 01:19:49 -0300:  [x] Received {"valor":127.08,"bomba":94,"combustivel":"Etanol"}
+2019-09-08 01:19:50 -0300: Mensagem Processada!
+2019-09-08 01:19:50 -0300:  [x] Received {"valor":195.45,"bomba":173,"combustivel":"Gasolina"}
+2019-09-08 01:19:51 -0300: Mensagem Processada!
+2019-09-08 01:19:51 -0300:  [x] Received {"valor":145.24,"bomba":22,"combustivel":"Gasolina"}
+2019-09-08 01:19:52 -0300: Mensagem Processada!
+2019-09-08 01:19:52 -0300:  [x] Received {"valor":247.5,"bomba":95,"combustivel":"Etanol"}
+2019-09-08 01:19:53 -0300: Mensagem Processada!
+2019-09-08 01:23:21 -0300:  [x] Received {"valor":214.72,"bomba":38,"combustivel":"Gasolina"}
+2019-09-08 01:23:22 -0300: Mensagem Processada!
+2019-09-08 01:23:22 -0300:  [x] Received {"valor":183.05,"bomba":22,"combustivel":"Etanol"}
+2019-09-08 01:23:23 -0300: Mensagem Processada!
+2019-09-08 01:23:23 -0300:  [x] Received {"valor":81.9,"bomba":37,"combustivel":"Etanol"}
+2019-09-08 01:23:24 -0300: Mensagem Processada!
+2019-09-08 01:23:24 -0300:  [x] Received {"valor":25.87,"bomba":147,"combustivel":"Gasolina"}
+2019-09-08 01:23:25 -0300: Mensagem Processada!
+2019-09-08 01:23:25 -0300:  [x] Received {"valor":15.81,"bomba":74,"combustivel":"Gasolina"}
+2019-09-08 01:23:26 -0300: Mensagem Processada!
+2019-09-08 01:23:26 -0300:  [x] Received {"valor":15.06,"bomba":31,"combustivel":"Gasolina"}
+2019-09-08 01:23:27 -0300: Mensagem Processada!
+2019-09-08 01:23:27 -0300:  [x] Received {"valor":101.35,"bomba":181,"combustivel":"Etanol"}
+2019-09-08 01:23:28 -0300: Mensagem Processada!
+2019-09-08 01:23:28 -0300:  [x] Received {"valor":70.81,"bomba":131,"combustivel":"Etanol"}
+2019-09-08 01:23:30 -0300: Mensagem Processada!
+2019-09-08 01:23:30 -0300:  [x] Received {"valor":226.48,"bomba":24,"combustivel":"Gasolina"}
+2019-09-08 01:23:31 -0300: Mensagem Processada!
+2019-09-08 01:23:31 -0300:  [x] Received {"valor":136.76,"bomba":39,"combustivel":"Gasolina"}
+2019-09-08 01:23:32 -0300: Mensagem Processada!
+2019-09-08 01:23:32 -0300:  [x] Received {"valor":243.82,"bomba":36,"combustivel":"Etanol"}
+2019-09-08 01:23:33 -0300: Mensagem Processada!
+2019-09-08 01:23:33 -0300:  [x] Received {"valor":113.65,"bomba":194,"combustivel":"Gasolina"}
+2019-09-08 01:23:34 -0300: Mensagem Processada!
+2019-09-08 01:23:34 -0300:  [x] Received {"valor":16.1,"bomba":67,"combustivel":"Etanol"}
+2019-09-08 01:23:35 -0300: Mensagem Processada!
+2019-09-08 01:23:35 -0300:  [x] Received {"valor":151.53,"bomba":100,"combustivel":"Etanol"}
+2019-09-08 01:23:36 -0300: Mensagem Processada!
+2019-09-08 01:23:36 -0300:  [x] Received {"valor":207.65,"bomba":129,"combustivel":"Gasolina"}
+2019-09-08 01:23:37 -0300: Mensagem Processada!
+2019-09-08 01:23:37 -0300:  [x] Received {"valor":59.56,"bomba":11,"combustivel":"Etanol"}
+2019-09-08 01:23:39 -0300: Mensagem Processada!
+2019-09-08 01:36:54 -0300:  [x] Received {"valor":87.38,"bomba":134,"combustivel":"Gasolina"}
+2019-09-08 01:36:56 -0300: Conexão recusada com o servidor da API
+2019-09-08 01:36:58 -0300: Conexão recusada com o servidor da API
+2019-09-08 01:37:00 -0300: Conexão recusada com o servidor da API
+2019-09-08 01:37:00 -0300: Após 3 tentativas não foi possível efetuar conexão.
+2019-09-08 01:37:00 -0300: O erro retornado foi: Failed to open TCP connection to localhost:3000 (No connection could be made because the target machine actively refused it. - connect(2) for "localhost" port 3000)
+2019-09-08 01:37:00 -0300: Tentando reconexão com o servidor em 15 segundos...
+2019-09-08 01:37:20 -0300: Mensagem Processada!
+2019-09-08 01:37:20 -0300:  [x] Received {"valor":80.47,"bomba":2,"combustivel":"Etanol"}
+2019-09-08 01:37:21 -0300: Mensagem Processada!
+2019-09-08 01:37:21 -0300:  [x] Received {"valor":208.39,"bomba":27,"combustivel":"Etanol"}
+2019-09-08 01:37:22 -0300: Mensagem Processada!
+2019-09-08 01:37:22 -0300:  [x] Received {"valor":164.36,"bomba":74,"combustivel":"Gasolina"}
+2019-09-08 01:37:23 -0300: Mensagem Processada!
+2019-09-08 01:37:23 -0300:  [x] Received {"valor":82.84,"bomba":83,"combustivel":"Etanol"}
+2019-09-08 01:37:24 -0300: Mensagem Processada!
+2019-09-08 01:37:24 -0300:  [x] Received {"valor":204.25,"bomba":59,"combustivel":"Gasolina"}
+2019-09-08 01:37:25 -0300: Mensagem Processada!
+2019-09-08 01:37:25 -0300:  [x] Received {"valor":33.97,"bomba":97,"combustivel":"Gasolina"}
+2019-09-08 01:37:26 -0300: Mensagem Processada!
+2019-09-08 01:37:26 -0300:  [x] Received {"valor":161.28,"bomba":149,"combustivel":"Gasolina"}
+2019-09-08 01:37:27 -0300: Mensagem Processada!
+2019-09-08 01:37:27 -0300:  [x] Received {"valor":196.44,"bomba":181,"combustivel":"Gasolina"}
+2019-09-08 01:37:28 -0300: Mensagem Processada!
+2019-09-08 01:37:28 -0300:  [x] Received {"valor":103.06,"bomba":54,"combustivel":"Gasolina"}
+2019-09-08 01:37:29 -0300: Mensagem Processada!
+2019-09-08 01:40:12 -0300: ended

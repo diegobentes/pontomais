@@ -21,7 +21,7 @@ class VendasController < ApplicationController
     @venda = Venda.new(venda_params)
 
     if @venda.save
-      render json: @venda, status: :created, location: @venda
+      render json: @venda, status: :created
     else
       render json: @venda.errors, status: :unprocessable_entity
     end

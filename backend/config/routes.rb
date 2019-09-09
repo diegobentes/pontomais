@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  resources :vendas
+  resources :vendas, :only => [:index, :create]
 end
