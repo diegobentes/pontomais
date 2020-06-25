@@ -56,12 +56,9 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.1, >= 2.1.8)
-    amq-protocol (2.3.0)
     bootsnap (1.4.5)
       msgpack (~> 1.0)
     builder (3.2.3)
-    bunny (2.14.2)
-      amq-protocol (~> 2.3, >= 2.3.0)
     byebug (11.0.1)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
@@ -82,13 +79,17 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
+    msgpack (1.3.1)
     msgpack (1.3.1-x64-mingw32)
+    mysql2 (0.5.2)
     mysql2 (0.5.2-x64-mingw32)
     nio4r (2.5.1)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     nokogiri (1.10.4-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     puma (3.12.1)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (6.0.0)
@@ -118,15 +119,6 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.20.3, < 2.0)
     rake (12.3.3)
-    serverengine (2.0.7)
-      sigdump (~> 0.2.2)
-    sigdump (0.2.4)
-    sneakers (2.11.0)
-      bunny (~> 2.12)
-      concurrent-ruby (~> 1.0)
-      rake
-      serverengine (~> 2.0.5)
-      thor
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
@@ -146,16 +138,15 @@ GEM
     zeitwerk (2.1.10)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
   bootsnap (>= 1.4.2)
-  bunny
   byebug
   mysql2 (>= 0.4.4)
   puma (~> 3.11)
   rails (~> 6.0.0)
-  sneakers
   tzinfo-data
 
 RUBY VERSION
